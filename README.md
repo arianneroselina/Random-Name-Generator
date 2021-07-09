@@ -7,3 +7,5 @@ it however you like by first letter, rank, number of letters, year, and of cours
 So? Let's go take a look at some names!
 
 List of babies' names are taken from [here](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/names/babies-first-names/babies-first-names-summary-records-comma-separated-value-csv-format).
+
+![View.png](View.png) ![ViewName.png](ViewName.png)
